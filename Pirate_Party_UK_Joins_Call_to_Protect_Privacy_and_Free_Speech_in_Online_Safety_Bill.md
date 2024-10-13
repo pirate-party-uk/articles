@@ -1,26 +1,35 @@
 ---
 author:
--    name: Lucy Maber
+  - name: Lucy Maber
 contributor:
--    name: Lucy Maber
+  - name: Lucy Maber
 imageUrl: /media/PP.png
-imageAlt: "Pirate Party Logo"
-title: Pirate Party UK Joins Call to Protect Privacy and Free Speech in Online Safety Bill
-summary: The Pirate Party UK has voiced concerns about the impact of the UK's Online Safety Bill on fundamental rights such as privacy and free speech. The party supports organizations such as EFF, Open Rights Group, Wikimedia UK, and Index on Censorship in calling for the protection of private messaging and the prevention of prior restraint of lawful speech.
-keywords: 
-    - Pirate Party UK
-    - Online Safety Bill
-    - privacy
-    - free speech
-    - fundamental rights
-    - private messaging
-    - prior restraint
-    - EFF
-    - Open Rights Group
-    - Wikimedia UK
-    - Index on Censorship
-publishDate: "13 may 2023"
+imageAlt: Pirate Party Logo
+title: >-
+  Pirate Party UK Joins Call to Protect Privacy and Free Speech in Online Safety
+  Bill
+summary: >-
+  The Pirate Party UK has voiced concerns about the impact of the UK's Online
+  Safety Bill on fundamental rights such as privacy and free speech. The party
+  supports organizations such as EFF, Open Rights Group, Wikimedia UK, and Index
+  on Censorship in calling for the protection of private messaging and the
+  prevention of prior restraint of lawful speech.
+keywords:
+  - Pirate Party UK
+  - Online Safety Bill
+  - privacy
+  - free speech
+  - fundamental rights
+  - private messaging
+  - prior restraint
+  - EFF
+  - Open Rights Group
+  - Wikimedia UK
+  - Index on Censorship
+publishDate: 13 May 2023
+
 ---
+
 As a political party that champions digital rights and free expression, the Pirate Party UK is deeply concerned about the Online Safety Bill currently under consideration by the House of Lords. We stand with organizations such as [EFF](Pirate_Party_UK_Joins_Call_to_Protect_Privacy_and_Free_Speech_in_Online_Safety_Bill.md), [Open Rights Group](Pirate_Party_UK_Joins_Call_to_Protect_Privacy_and_Free_Speech_in_Online_Safety_Bill.md), [Wikimedia UK](Pirate_Party_UK_Joins_Call_to_Protect_Privacy_and_Free_Speech_in_Online_Safety_Bill.md), and [Index on Censorship](Pirate_Party_UK_Joins_Call_to_Protect_Privacy_and_Free_Speech_in_Online_Safety_Bill.md), who have raised serious concerns about the impact of this legislation on fundamental rights such as the right to privacy and free speech.
 
 We believe that Clause 110 of the bill, which requires websites and apps to proactively prevent harmful content from appearing on messaging services, is particularly problematic. It would require the screening of all user content, which is incompatible with encryption and privacy rights. The mandatory scanning of private conversations interferes with our right to have a private conversation, and could lead to a chilling effect on free expression.

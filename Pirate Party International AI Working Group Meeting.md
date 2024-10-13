@@ -13,8 +13,9 @@ keywords:
   - political activism
   - enhances democratic
   - AI Working Group
-publishDate: "14 feb 2024"
+publishDate: "14 Feb 2024"
 ---
+
 
 Arr mateys! Join us for the Pirate Party International AI Working Group Meeting, where we'll be discussing all things AI online, savvy?
 

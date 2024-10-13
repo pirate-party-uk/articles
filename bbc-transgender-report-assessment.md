@@ -16,8 +16,9 @@ keywords:
   - Shinigami Eyes
   - Transphobia
 summary: An assessment by the Pirate Party UK of the BBC's reporting on puberty blockers and transgender healthcare, highlighting potential biases, conflicts of interest, and the importance of balanced reporting.
-publishDate: "20 sep 2023"
+publishDate: "20 Sep 2023"
 ---
+
 
 ## Introduction
 The Pirate Party UK, a proponent of evidence-based policymaking and the protection of the rights and well-being of all individuals, has undertaken an evaluation of the BBC's reporting on transgender healthcare, specifically concerning the use of puberty blockers in children. This assessment aims to shed light on potential biases and conflicts of interest within the broadcaster's coverage.

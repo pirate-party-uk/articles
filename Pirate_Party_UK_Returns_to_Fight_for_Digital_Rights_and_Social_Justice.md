@@ -1,23 +1,24 @@
 ---
 author:
--    name: Lucy Maber
+  - name: Lucy Maber
 contributor:
--    name: Lucy Maber
+  - name: Lucy Maber
 slug: uk-pirate-party-restarting
 imageUrl: /media/PP.png
 imageAlt: "Pirate Party Logo"
 title: Pirate Party UK Returns to Fight for Digital Rights and Social Justice
 summary: After a brief hiatus, Pirate Party UK is back and stronger than ever. With a renewed commitment to digital freedom, government transparency, and social justice, we're ready to fight for a fairer, more transparent society. We support LGBTQIA+ rights, including trans rights, and believe in promoting civil liberties for all.
 keywords: 
-    - Pirate Party UK
-    - digital rights
-    - government transparency
-    - social justice
-    - LGBTQIA+ rights
-    - trans rights
-    - civil liberties
-publishDate: "13 may 2023"
+  - Pirate Party UK
+  - digital rights
+  - government transparency
+  - social justice
+  - LGBTQIA+ rights
+  - trans rights
+  - civil liberties
+publishDate: "13 May 2023"
 ---
+
 Ahoy, me hearties!
 
 It gives me great pleasure to announce the return of Pirate Party UK! After a brief hiatus, we're back and ready to fight for digital rights and privacy.

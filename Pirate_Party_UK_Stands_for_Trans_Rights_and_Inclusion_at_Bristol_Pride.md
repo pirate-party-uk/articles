@@ -1,29 +1,29 @@
 ---
 author:
--    name: Lucy Maber
+  - name: Lucy Maber
 contributor:
--    name: Lucy Maber
+  - name: Lucy Maber
 imageUrl: /media/PP.png
 imageAlt: "Pirate Party Logo"
 title: Pirate Party UK Stands for Trans Rights and Inclusion at Bristol Pride
 summary: Bristol Pride has banned all political parties from participating in their event, citing concerns about transphobic rhetoric and the lack of action from political leaders. The Pirate Party UK, whose leader and treasurer are trans individuals, supports this decision and expresses a commitment to protecting minority groups, including the LGBTQ+ community. While they are unable to participate this year, they aspire to engage in future events to foster understanding and embed LGBTQ+ rights within political discourse. The party emphasizes that trans rights are human rights and advocates for equality, representation, and the eradication of discrimination.
 keywords: 
-    - Bristol Pride
-    - political parties
-    - transphobic rhetoric
-    - LGBTQ+ rights
-    - Conservative home secretary Suella Braverman
-    - Labour MP Rosie Duffield
-    - bad-faith rhetoric
-    - protest
-    - prejudice and hatred
-    - conversation and education
-    - Pirate Party UK
-    - minority groups
-    - inclusivity
-    - future events
-    - trans rights are human rights
-publishDate: "08 jul 2023"
+  - Bristol Pride
+  - political parties
+  - transphobic rhetoric
+  - LGBTQ+ rights
+  - Conservative home secretary Suella Braverman
+  - Labour MP Rosie Duffield
+  - bad-faith rhetoric
+  - protest
+  - prejudice and hatred
+  - conversation and education
+  - Pirate Party UK
+  - minority groups
+  - inclusivity
+  - future events
+  - trans rights are human rights
+publishDate: "08 Jul 2023"
 ---
 
 Introduction:

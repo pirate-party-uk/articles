@@ -1,20 +1,21 @@
 ---
 author: 
-    - name: Lucy Maber
+  - name: Lucy Maber
 contributor: Contributor's Name
 imageUrl: URL_TO_IMAGE
 imageAlt: Alt text for the image
 title: Pirate Party UK Takes Steps Towards Joining Pirate Parties International
 summary: Pirate Party UK is considering affiliation with Pirate Parties International, exploring potential benefits and impacts.
 keywords:
-    - PPUK
-    - Pirate Parties International
-    - affiliation
-    - global network
-    - digital rights
-    - civil liberties
-publishDate: "18 aug 2023"
+  - PPUK
+  - Pirate Parties International
+  - affiliation
+  - global network
+  - digital rights
+  - civil liberties
+publishDate: "18 Aug 2023"
 ---
+
 
 The Pirate Party UK (PPUK) is embarking on an exciting journey that could potentially bring it into the fold of the global pirate movement. PPUK is currently in discussions to join Pirate Parties International (PPI), an international network of political parties that share common principles of digital rights, transparency, and civil liberties.
 
