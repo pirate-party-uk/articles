@@ -53,6 +53,7 @@ For inquiries or more information about our restart and activities, please feel 
 To receive real-time updates and stay connected with the Pirate Party UK community, follow us on [https://twitter.com/_PiratePartyUK](Twitter/X), [https://tech.lgbt/@pirate_party_uk](Mastodon) and [https://www.reddit.com/r/PiratePartyUK/](Reddit).
 
 ## A Note of Thanks
+
 We want to express our gratitude to the old NEC and Board of Governors for their contributions and dedication to the cause. We also want to take a moment to thank Harley Faggetter, our former leader who had to take the difficult decision to shutter the previous Pirate Party.
 
 Thank you all for what you have done.

@@ -34,7 +34,7 @@ In recent years, concerns have arisen regarding the misuse of body-worn cameras 
 
 Body-worn cameras were introduced with the noble intention of improving policing transparency and protecting both citizens and officers. However, their misuse has undermined these objectives and eroded public confidence. The Pirate Party UK recognizes that the responsible use of body-worn cameras is essential to achieving these goals.
 
-### Key Actions:
+### Key Actions
 
 1. **Strengthening Legal Frameworks:**
    - The Pirate Party UK would review and, if necessary, amend existing legislation to ensure that the use of body-worn cameras by police officers is clearly defined, lawful, and justifiable.
